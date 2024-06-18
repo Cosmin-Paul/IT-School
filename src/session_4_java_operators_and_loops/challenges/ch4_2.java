@@ -8,9 +8,9 @@ public class ch4_2 {
         boolean compareNumbers = (firstNumber == secondNumber);
         System.out.println("firstNumber and secondNumber are equal: " + compareNumbers);
 
-   String fNumber = "10";
-   String sNumber = "10";
-   boolean compNumbers = (fNumber.equals(sNumber));
+        String fNumber = "10";
+        String sNumber = "10";
+        boolean compNumbers = (fNumber.equals(sNumber));
 
         System.out.println("firstNumber and secondNumber are equal: " + compNumbers);
 

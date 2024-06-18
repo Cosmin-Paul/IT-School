@@ -5,62 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2be99baf-d034-4d1c-b083-c0a3897f5821" name="Changes" comment="challenges of the 4th course  update">
-      <change afterPath="$PROJECT_DIR$/out/production/IT School/session_3_java_operators/challenges/ch3_10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IT School/session_3_java_operators/challenges/ch3_11.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IT School/session_3_java_operators/challenges/ch3_12.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IT School/session_3_java_operators/challenges/ch3_13.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IT School/session_3_java_operators/challenges/ch3_14.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IT School/session_3_java_operators/challenges/ch3_6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IT School/session_3_java_operators/challenges/ch3_7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IT School/session_3_java_operators/challenges/ch3_8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IT School/session_3_java_operators/challenges/ch3_9.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IT School/session_4_java_operators_and_loops/challenges/ch4_1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IT School/session_4_java_operators_and_loops/challenges/ch4_10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IT School/session_4_java_operators_and_loops/challenges/ch4_11.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IT School/session_4_java_operators_and_loops/challenges/ch4_12.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IT School/session_4_java_operators_and_loops/challenges/ch4_13.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IT School/session_4_java_operators_and_loops/challenges/ch4_14.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IT School/session_4_java_operators_and_loops/challenges/ch4_15.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IT School/session_4_java_operators_and_loops/challenges/ch4_16.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IT School/session_4_java_operators_and_loops/challenges/ch4_17.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IT School/session_4_java_operators_and_loops/challenges/ch4_18.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IT School/session_4_java_operators_and_loops/challenges/ch4_19.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IT School/session_4_java_operators_and_loops/challenges/ch4_2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IT School/session_4_java_operators_and_loops/challenges/ch4_3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IT School/session_4_java_operators_and_loops/challenges/ch4_4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IT School/session_4_java_operators_and_loops/challenges/ch4_5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IT School/session_4_java_operators_and_loops/challenges/ch4_6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IT School/session_4_java_operators_and_loops/challenges/ch4_7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IT School/session_4_java_operators_and_loops/challenges/ch4_8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IT School/session_4_java_operators_and_loops/challenges/ch4_9.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IT School/session_4_java_operators_and_loops/practice/MemoryReference.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IT School/session_4_java_operators_and_loops/practice/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IT School/session_4_java_operators_and_loops/practice/forStatements.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IT School/session_5_java_advanced_flow_control/practice/FlowControl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IT School/session_5_java_advanced_flow_control/practice/JavaStatements.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IT School/session_5_java_advanced_flow_control/practice/SwitchStatements.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session_4_java_operators_and_loops/challenges/ch4_17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session_4_java_operators_and_loops/challenges/ch4_18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session_4_java_operators_and_loops/challenges/ch4_19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session_4_java_operators_and_loops/challenges/ch4_20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session_5_java_advanced_flow_control/practice/FlowControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session_5_java_advanced_flow_control/practice/JavaStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session_5_java_advanced_flow_control/practice/SwitchStatements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IT School/session_3_java_operators/ArithmeticOperations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IT School/session_3_java_operators/LogicalComplementNegotiationOperators.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IT School/session_3_java_operators/NumericPromotion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IT School/session_3_java_operators/PostIncrementAndDecrementOperators.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IT School/session_3_java_operators/PreIncrementAndDecrementOperators.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IT School/session_3_java_operators/relationOperators.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/session_3_java_operators/ArithmeticOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session_3_java_operators/practice/ArithmeticOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/session_3_java_operators/LogicalComplementNegotiationOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session_3_java_operators/practice/LogicalComplementNegotiationOperators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/session_3_java_operators/NumericPromotion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session_3_java_operators/practice/NumericPromotion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/session_3_java_operators/PostIncrementAndDecrementOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session_3_java_operators/practice/PostIncrementAndDecrementOperators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/session_3_java_operators/PreIncrementAndDecrementOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session_3_java_operators/practice/PreIncrementAndDecrementOperators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/session_3_java_operators/Problem1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session_3_java_operators/practice/Problem1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/session_3_java_operators/relationOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session_3_java_operators/practice/relationOperators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/session_3_java_operators/variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session_3_java_operators/practice/variables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/session_4_java_operators_and_loops/challenges/ch4_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session_4_java_operators_and_loops/challenges/ch4_17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/session_4_java_operators_and_loops/challenges/ch4_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session_4_java_operators_and_loops/challenges/ch4_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/session_4_java_operators_and_loops/challenges/ch4_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session_4_java_operators_and_loops/challenges/ch4_20.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,6 +72,8 @@
     "Application.ch4_16.executor": "Run",
     "Application.ch4_19.executor": "Run",
     "Application.ch4_2.executor": "Run",
+    "Application.ch4_20.executor": "Run",
+    "Application.ch4_21.executor": "Run",
     "Application.ch4_3.executor": "Run",
     "Application.ch4_4.executor": "Run",
     "Application.ch4_5.executor": "Run",
@@ -151,7 +101,7 @@
       <recent name="session_4_java_operators_and_loops" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ch4_19">
+  <component name="RunManager" selected="Application.ch4_21">
     <configuration name="FlowControl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="session_5_java_advanced_flow_control.practice.FlowControl" />
       <module name="IT School" />
@@ -178,19 +128,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwithchStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="session_5_java_advanced_flow_control.practice.SwithchStatements" />
-      <module name="IT School" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="session_5_java_advanced_flow_control.practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ch4_19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="session_4_java_operators_and_loops.challenges.ch4_19" />
       <module name="IT School" />
@@ -204,12 +141,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="forStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="session_4_java_operators_and_loops.practice.forStatements" />
+    <configuration name="ch4_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session_4_java_operators_and_loops.challenges.ch4_20" />
       <module name="IT School" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="session_4_java_operators_and_loops.practice.*" />
+          <option name="PATTERN" value="session_4_java_operators_and_loops.challenges.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch4_21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session_4_java_operators_and_loops.challenges.ch4_21" />
+      <module name="IT School" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="session_4_java_operators_and_loops.challenges.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -219,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ch4_21" />
+        <item itemvalue="Application.ch4_20" />
         <item itemvalue="Application.ch4_19" />
         <item itemvalue="Application.JavaStatements" />
         <item itemvalue="Application.FlowControl" />
-        <item itemvalue="Application.SwithchStatements" />
-        <item itemvalue="Application.forStatements" />
       </list>
     </recent_temporary>
   </component>
@@ -300,7 +250,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718638222040</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="challenges of the 4th course  update">
+      <option name="closed" value="true" />
+      <created>1718726880856</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1718726880856</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
