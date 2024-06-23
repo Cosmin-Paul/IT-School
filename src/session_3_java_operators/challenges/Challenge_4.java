@@ -2,15 +2,15 @@ package session_3_java_operators.challenges;
 
 public class Challenge_4 {
     public static void main(String[] args) {
-        int x = 1;
+        int count = 1;
 
-        while (x < 10) {
-            System.out.println(x);
-            ++x;
+        while (count < 10) {
+            System.out.println(count);
+            ++count;
         }
-        while (x >= 1) {
-            System.out.println(x);
-             --x;
+        while (count >= 1) {
+            System.out.println(count);
+            --count;
         }
     }
 }

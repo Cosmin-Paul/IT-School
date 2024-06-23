@@ -9,10 +9,11 @@ public class Challenge_3 {
         double numInput = scanner.nextDouble();
 
         if (numInput > 0) {
-            System.out.println(numInput + " is positive");}
-        else if (numInput == 0) {
-            System.out.println(numInput + " is zero");}
-        else {
-            System.out.println(numInput + " is negative");}
+            System.out.println(numInput + " This number is positive");
+        } else if (numInput == 0) {
+            System.out.println(numInput + " This number is zero");
+        } else {
+            System.out.println(numInput + " This number is negative");
         }
-        }
+    }
+}

@@ -3,7 +3,7 @@ package session_3_java_operators.practice;
 public class ArithmeticOperations {
     public static void main(String[] args) {
         int firstNumber = 10;
-        int secondNumber = 2;
+        int secondNumber = 5;
 
         int sum = firstNumber + secondNumber;
         int difference = firstNumber - secondNumber;
