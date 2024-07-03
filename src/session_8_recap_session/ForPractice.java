@@ -1,4 +1,4 @@
-package session_8recap_session;
+package session_8_recap_session;
 
 public class ForPractice {
 
