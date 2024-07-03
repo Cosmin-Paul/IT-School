@@ -2,7 +2,7 @@ package session_4_java_operators_and_loops.challenges;
 
 import java.util.Scanner;
 
-public class challenge_21 {
+public class Challenge_21 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

@@ -1,6 +1,6 @@
 package session_4_java_operators_and_loops.practice;
 
-public class forStatements {
+public class ForStatements {
 
     public static void main(String[] args) {
         printNumbers(10);

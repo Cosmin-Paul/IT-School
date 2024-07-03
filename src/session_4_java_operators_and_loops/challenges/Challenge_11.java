@@ -1,6 +1,6 @@
 package session_4_java_operators_and_loops.challenges;
 
-public class challenge_11 {
+public class Challenge_11 {
     public static void main(String[] args) {
         int a = 10;
         int b = 20;

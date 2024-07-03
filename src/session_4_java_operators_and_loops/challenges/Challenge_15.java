@@ -1,6 +1,6 @@
 package session_4_java_operators_and_loops.challenges;
 
-public class challenge_15 {
+public class Challenge_15 {
     public static void main(String[] args) {
 
         int totalValue = 100;

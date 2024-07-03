@@ -1,6 +1,6 @@
 package session_4_java_operators_and_loops.challenges;
 
-public class challenge_13 {
+public class Challenge_13 {
     public static void main(String[] args) {
 
         boolean isRaining = true;

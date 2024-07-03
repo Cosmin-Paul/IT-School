@@ -1,6 +1,6 @@
 package session_4_java_operators_and_loops.challenges;
 
-public class challenge_17 {
+public class Challenge_17 {
     public static void main(String[] args) {
         boolean Username = true;
         boolean Password = true;

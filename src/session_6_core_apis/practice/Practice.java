@@ -1,6 +1,6 @@
 package session_6_core_apis.practice;
 
-public class practice {
+public class Practice {
     public static void main(String[] args) {
         String name = "Maria";
         String name2 = " Maria";

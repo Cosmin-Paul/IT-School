@@ -2,7 +2,7 @@ package session_4_java_operators_and_loops.challenges;
 
 import java.util.ArrayList;
 
-public class challenge_10 {
+public class Challenge_10 {
     public static void main(String[] args) {
 
         ArrayList<String> listOne = new ArrayList<>();

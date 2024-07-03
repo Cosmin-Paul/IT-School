@@ -2,7 +2,7 @@ package session_4_java_operators_and_loops.challenges;
 
 import java.util.Scanner;
 
-public class challenge_19 {
+public class Challenge_19 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("What is your age");
