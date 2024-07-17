@@ -1,4 +1,4 @@
-package session_13_abstraction.practice;
+package session_11_inheritance_encapsulation.practice;
 
 public class Vehicle {
     private String brand;
