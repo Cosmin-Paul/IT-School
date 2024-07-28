@@ -1,4 +1,4 @@
-package session_16_java_collections_framework.challenges;
+package session_16_java_collections_framework.challenges.ArrayList;
 
 import java.util.ArrayList;
 import java.util.Collections;
