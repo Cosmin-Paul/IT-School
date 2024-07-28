@@ -15,7 +15,7 @@ public class ArraysListVsLinkedList {
             linkedList.add(String.valueOf(index));
         }
 
-        //check if LinkedList is faster for add method
+        //check if session_16_java_collections_framework.challenges.LinkedList is faster for add method
         long startTimerArrayList = System.currentTimeMillis();
         for (int index = 0; index < 100000; index++) {
             arrayList.add(0, String.valueOf(index));
@@ -28,7 +28,7 @@ public class ArraysListVsLinkedList {
         }
         long endTimerLinkedList = System.currentTimeMillis();
 
-        System.out.println("ArrayList time: " + (endTimerArrayList - startTimerArrayList));
-        System.out.println("LinkedList time: " + (endTimerLinkedList - startTimerLinkedList));
+        System.out.println("session_16_java_collections_framework.challenges.session_16_java_collections_framework.challenges.ArrayList time: " + (endTimerArrayList - startTimerArrayList));
+        System.out.println("session_16_java_collections_framework.challenges.LinkedList time: " + (endTimerLinkedList - startTimerLinkedList));
     }
 }
