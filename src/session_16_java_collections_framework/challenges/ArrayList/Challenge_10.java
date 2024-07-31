@@ -23,5 +23,4 @@ public class Challenge_10 {
         Collections.shuffle(surgeryInstruments);
         System.out.println(surgeryInstruments);
     }
-
 }

@@ -12,6 +12,8 @@ public class Challenge_6 {
         carList.add("Bmw");
         carList.add("Kia");
 
+        System.out.println("The original list is: " + carList);
+
         carList.remove(2);
 
         System.out.println(carList);

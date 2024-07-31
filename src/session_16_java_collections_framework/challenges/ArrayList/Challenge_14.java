@@ -25,6 +25,5 @@ public class Challenge_14 {
         Collections.swap(evenList, 2, 6);
 
         System.out.println("The list of numbers before to swap elements is: " + evenList);
-
     }
 }

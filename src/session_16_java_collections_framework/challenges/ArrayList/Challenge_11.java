@@ -18,7 +18,5 @@ public class Challenge_11 {
 
         Collections.reverse(cakeRecipe);
         System.out.println("Reversed elements of this list are: " + cakeRecipe);
-
-
     }
 }

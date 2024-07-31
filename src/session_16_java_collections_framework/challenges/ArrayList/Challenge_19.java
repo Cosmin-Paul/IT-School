@@ -21,6 +21,5 @@ public class Challenge_19 {
         gardeningTools.trimToSize();
 
         System.out.println("The capacity after trimming is: " + gardeningTools.size());
-
     }
 }

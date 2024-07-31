@@ -19,5 +19,4 @@ public class Challenge_9 {
         System.out.println("The original list is: " + cityList1);
         System.out.println("The copied list is: " + cityList2);
     }
-
 }

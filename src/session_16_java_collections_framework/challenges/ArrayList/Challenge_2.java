@@ -17,5 +17,4 @@ public class Challenge_2 {
             System.out.println(myColours.get(i));
         }
     }
-
 }

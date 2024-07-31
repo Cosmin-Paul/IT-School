@@ -23,7 +23,5 @@ public class Challenge_10 {
 
         System.out.println("The both Has sets are equals? " + isEqual1);
         System.out.println("The both Has sets are equals? " + isEqual2);
-
-
     }
 }

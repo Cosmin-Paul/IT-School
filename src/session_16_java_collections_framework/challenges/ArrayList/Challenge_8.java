@@ -18,5 +18,4 @@ public class Challenge_8 {
 
         System.out.println(fruitList);
     }
-
 }

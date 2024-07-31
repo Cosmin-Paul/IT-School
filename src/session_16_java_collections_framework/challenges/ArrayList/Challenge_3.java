@@ -17,9 +17,7 @@ public class Challenge_3 {
 
         System.out.println("My list of colours is: " + myColours);
 
-        myColours.add(0,"Green Mamba");
+        myColours.add(0, "Green Mamba");
         System.out.println("Update list after insert 'Green mamba colour' at the first position " + myColours);
-
-
     }
 }

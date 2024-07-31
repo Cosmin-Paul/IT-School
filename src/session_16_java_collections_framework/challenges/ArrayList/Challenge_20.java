@@ -16,6 +16,5 @@ public class Challenge_20 {
         myList.add("Music");
         myList.add("Beach scarf");
         System.out.println("The size after adding elements: " + myList.size());
-
     }
 }

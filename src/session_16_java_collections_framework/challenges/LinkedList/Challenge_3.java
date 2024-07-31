@@ -18,11 +18,11 @@ public class Challenge_3 {
 
         int startPosition = 3;
 
-        if (startPosition < 0 || startPosition >= soupIngredients.size()) {
-            System.out.println("Invalid to start index");
-        }
-        else {
+        ListIterator<String> toIterate = soupIngredients.listIterator(startPosition);
 
+        while (toIterate.hasNext()) {
+            String ingredients = toIterate.next();
+            System.out.println(ingredients + " ");
         }
     }
 }
