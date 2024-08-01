@@ -10,7 +10,7 @@ public class Challenge_3 {
         stringsList.add(" is ");
         stringsList.add(" a ");
         stringsList.add(" crazy ");
-        stringsList.add(" super challenge! ");
+        stringsList.add(" super session_18.challenge! ");
 
         String concatenatedStrings = concateStrings(stringsList);
 
