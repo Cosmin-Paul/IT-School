@@ -13,7 +13,11 @@ public class DataProcessingPractice {
 
         //var 2
 
-
+        for (String name : names) {
+            if (name.startsWith("A")) {
+                System.out.println(name);
+            }
+        }
     }
 }
 
