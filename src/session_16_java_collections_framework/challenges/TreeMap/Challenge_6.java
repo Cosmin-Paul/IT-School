@@ -1,4 +1,4 @@
-package TreeMap;
+package session_16_java_collections_framework.challenges.TreeMap;
 
 import java.util.Set;
 import java.util.TreeMap;
