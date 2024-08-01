@@ -1,8 +1,8 @@
-package HashMap;
+package session_16_java_collections_framework.challenges.HashMap;
 
 import java.util.HashMap;
 
-public class Challenge_7 {
+public class Challenge_8 {
     public static void main(String[] args) {
         HashMap<String, Integer> myMap = new HashMap<>();
 
@@ -14,14 +14,13 @@ public class Challenge_7 {
         myMap.put("Saturday", 6);
         myMap.put("Sunday", 7);
 
-        String checkKey = "Friday";
+        int CheckValue = 7;
+        boolean containsValue = myMap.containsValue(7);
 
-        boolean containKey = myMap.containsKey(checkKey);
-
-        if (containKey) {
-            System.out.println("This map contain the key: " + checkKey);
+        if (containsValue) {
+            System.out.println("This map contain the value: " + containsValue);
         } else {
-            System.out.println("This map doesn't contain the key: " + checkKey);
+            System.out.println("This map doesn't contain the value: " + containsValue);
         }
     }
 }

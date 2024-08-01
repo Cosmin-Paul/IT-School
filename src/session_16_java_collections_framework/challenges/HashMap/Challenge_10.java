@@ -1,4 +1,4 @@
-package HashMap;
+package session_16_java_collections_framework.challenges.HashMap;
 
 import java.util.HashMap;
 

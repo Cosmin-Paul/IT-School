@@ -1,9 +1,9 @@
-package HashMap;
+package session_16_java_collections_framework.challenges.HashMap;
 
+import java.util.Collection;
 import java.util.HashMap;
-import java.util.Set;
 
-public class Challenge_11 {
+public class Challenge_12 {
     public static void main(String[] args) {
         HashMap<String, Integer> pairMap = new HashMap<>();
 
@@ -13,7 +13,8 @@ public class Challenge_11 {
         pairMap.put("80", 4);
         pairMap.put("100", 5);
 
-        Set<String> viewKey = pairMap.keySet();
-        System.out.println("The keys are: " + viewKey);
+        Collection<Integer> viewValues = pairMap.values();
+
+        System.out.println("The view values are: " + viewValues);
     }
 }
