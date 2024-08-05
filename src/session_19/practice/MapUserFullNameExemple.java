@@ -1,23 +1,22 @@
-package practice;
+package session_19.practice;
 
 import java.util.Arrays;
 import java.util.List;
 
-public class CombineStreamOperations {
+public class MapUserFullNameExemple {
     public static void main(String[] args) {
+
         List<User> users = Arrays.asList(
                 new User("Julia", "Smith", 25),
                 new User("Marck", "Barker", 36),
                 new User("Martha", "Jhonson", 23),
                 new User("Johny", "Robinson", 28)
-
         );
-        List<String> resultList = users.stream()
-                .filter(user -> user.getAge()<28)
-                .map(user -> user.getFirstName() + " " + user.getLastName())
-                .sorted()
+        List<String> fullName = users.stream()
+                .map(name -> name.getFirstName() + " " + name.getLastName())
                 .toList();
 
-        System.out.println(resultList);
+        System.out.println(fullName);
     }
+
 }
