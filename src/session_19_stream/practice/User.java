@@ -1,4 +1,4 @@
-package session_19.practice;
+package session_19_stream.practice;
 
 public class User {
     private String firstName;

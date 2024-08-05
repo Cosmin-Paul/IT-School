@@ -1,4 +1,4 @@
-package session_19.practice;
+package session_19_stream.practice;
 
 import java.util.Arrays;
 import java.util.List;
