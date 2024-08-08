@@ -13,9 +13,9 @@ public class CollegeManagement {
 
         Course course1 = new Course(416, "Geography", "MT", "1h", "World geography", "prof2");
         Course course2 = new Course(444, "History", "FW", "1h", "Elementary history", "prof1");
-        Course course3 = new Course(315, "Music", "MF", "1h", "Instrument practice", "prof3");
+        Course course3 = new Course(315, "Music", "MF", "1h", "Instrument session_19.practice", "prof3");
         Course course4 = new Course(399, "Psichology", "MT", "1h", "Temperaments", "prof5");
-        Course course5 = new Course(221, "Science", "Wt", "2h", "Instrument practice", "prof4");
+        Course course5 = new Course(221, "Science", "Wt", "2h", "Instrument session_19.practice", "prof4");
 
         System.out.println(course1.getCourseName() + " " + course2.getDuration() + " " + prof2.getFirstName() + " " + prof2.getLastName());
         System.out.println(course2.getCourseName() + " " + course1.getDuration() + " " + prof1.getFirstName() + " " + prof1.getLastName());

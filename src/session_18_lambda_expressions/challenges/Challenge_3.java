@@ -1,4 +1,4 @@
-package session_18_lambda_expressions.challenge;
+package session_18_lambda_expressions.challenges;
 
 import java.util.Arrays;
 import java.util.List;
