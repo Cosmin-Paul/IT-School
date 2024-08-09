@@ -10,6 +10,5 @@ public class StreamReduceExemple {
                 .reduce(0, Integer::sum);
 
         System.out.println("Sum of numbers: " + sum);
-
     }
 }

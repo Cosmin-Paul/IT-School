@@ -11,6 +11,5 @@ public class StreamMapExemple {
                 .toList();
 
         System.out.println(upperCaseNames);
-
     }
 }
