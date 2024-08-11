@@ -12,6 +12,5 @@ public class Challenge_7 {
                         "Scalene";
 
         System.out.println("The triangle is: " + triangleShape);
-
     }
 }
