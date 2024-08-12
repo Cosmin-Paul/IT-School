@@ -5,17 +5,18 @@ import java.util.Scanner;
 public class Challenge_11 {
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter a value to be negated: ");
-        boolean a = scanner.nextBoolean();
+        Scanner sc = new Scanner(System.in);
 
-        System.out.println("Enter a second value to be negated: ");
-        boolean b = scanner.nextBoolean();
+        System.out.println("Enter a boolean value to be negated: ");
+        boolean firstValue = sc.nextBoolean();
 
-        boolean aNegativ = !a;
-        boolean bNegativ = !b;
-        System.out.println("Your negated boolean values are: " + aNegativ + " , " + bNegativ);
+        System.out.println("Enter a second boolean value to be negated: ");
+        boolean secondValue = sc.nextBoolean();
 
+        sc.close();
 
+        boolean aNegative = !firstValue;
+        boolean bNegative = !secondValue;
+        System.out.println("Your negated boolean values are: " + aNegative + " , " + bNegative);
     }
 }

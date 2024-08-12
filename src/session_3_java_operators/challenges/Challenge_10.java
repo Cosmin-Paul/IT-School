@@ -6,9 +6,10 @@ public class Challenge_10 {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
-        System.out.println("add an integer to be inverted: ");
+        System.out.println("Enter a value to be inverted: ");
+
         int number = scanner.nextInt();
-        int revers = -number;
-        System.out.println("The revers sign of: " + number + " is: " + revers);
+        int reversNumber = -number;
+        System.out.println("The revers sign of: " + number + " is: " + reversNumber);
     }
 }

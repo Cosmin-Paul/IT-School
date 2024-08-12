@@ -6,12 +6,12 @@ public class Challenge_9 {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
-        System.out.println("lungime: ");
-        int lungime = scanner.nextInt();
+        System.out.println(" Enter the length: ");
+        int length = scanner.nextInt();
 
-        System.out.println("latime: ");
-        int latime = scanner.nextInt();
-        int aria = lungime * latime;
-        System.out.println("Aria dreptughiului este: " + aria);
+        System.out.println("Enter the width: ");
+        int width = scanner.nextInt();
+        int rectangleArea = length * width;
+        System.out.println("The area of the rectangle is: " + rectangleArea);
     }
 }

@@ -3,9 +3,10 @@ package session_5_java_advanced_flow_control.challenges;
 public class Challenge_3 {
     public static void main(String[] args) {
 
-        int[] arrayList = {1, 25, -7, 9, -31, 16, -12, -24, 48, 94};
+        int[] arrayList = {1, 25, -7, 9, -31, 16, -12, -24, -48, 94};
         negativeNumbers(arrayList);
     }
+
     public static void negativeNumbers(int[] arrayList) {
 
         int negativeNumbers = 0;

@@ -8,7 +8,7 @@ public class Challenge_8 {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the first value byte");
         byte byte1 = scanner.nextByte();
-        System.out.println("Enter the secont value byte");
+        System.out.println("Enter the second value byte");
 
         byte byte2 = scanner.nextByte();
         byte bytesum = (byte) (byte1 + byte2);

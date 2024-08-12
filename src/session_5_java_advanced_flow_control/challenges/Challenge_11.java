@@ -5,17 +5,24 @@ import java.util.Scanner;
 public class Challenge_11 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Input a number");
-        int number = scanner.nextInt();
+
+        int sum = 0;
         int count = 0;
-        int total = 0;
-        while (number > 0) {
-            count++;
-            total = total + number;
-            number = scanner.nextInt();
+
+        while (true) {
+            System.out.println("Enter a number and later 0 to stop: ");
+            int number = scanner.nextInt();
+
+            if (number != 0) {
+                count++;
+                sum += number;
+
+            } else {
+                break;
+            }
+            double average = sum / count;
+            System.out.println("The average of numbers is: " + average);
         }
-        int average = total / count;
-        System.out.println(average);
         scanner.close();
     }
 }

@@ -9,7 +9,7 @@ public class Challenge_8 {
         for (int x = 1; x <= number; x++) {
             factorial *= x;
 
-            System.out.println("The factorial of" + number + " is " + factorial);
+            System.out.println("The factorial of " + number + " is: " + factorial);
         }
     }
 }

@@ -7,9 +7,9 @@ public class Challenge_9 {
         for (int number : arrayList) {
 
             if (number % 2 == 0) {
-                System.out.println(number + " Is Even");
+                System.out.println(number + " is Even");
             } else {
-                System.out.println(number + " s Odd");
+                System.out.println(number + " is Odd");
             }
         }
     }
