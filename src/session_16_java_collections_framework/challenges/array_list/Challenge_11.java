@@ -7,7 +7,7 @@ public class Challenge_11 {
     public static void main(String[] args) {
         ArrayList<String> cakeRecipe = new ArrayList<>();
         cakeRecipe.add("Flower");
-        cakeRecipe.add("Cornstach");
+        cakeRecipe.add("Cornstarch");
         cakeRecipe.add("Baking soda");
         cakeRecipe.add("Salt");
         cakeRecipe.add("Sugar");

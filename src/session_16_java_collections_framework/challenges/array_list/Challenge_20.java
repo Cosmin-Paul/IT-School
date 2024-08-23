@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class Challenge_20 {
     public static void main(String[] args) {
         ArrayList<String> myList = new ArrayList<>();
-        myList.add("Sunglases");
+        myList.add("Sunglasses");
         myList.add("Sun protection");
         myList.add("Slipper");
         myList.add("Towel");

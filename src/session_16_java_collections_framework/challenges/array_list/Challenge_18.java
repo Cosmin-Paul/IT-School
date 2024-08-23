@@ -6,20 +6,14 @@ public class Challenge_18 {
     public static void main(String[] args) {
 
         ArrayList<String> myFarm = new ArrayList<>();
-        myFarm.add("Principale mainson");
-        myFarm.add("Secondary mainson cottage");
+        myFarm.add("Principale mansion");
+        myFarm.add("Secondary mansion cottage");
         myFarm.add("Barn");
         myFarm.add("Animal yard");
-        myFarm.add("Water lake");
-        myFarm.add("Tree orchard");
         myFarm.add("Silo");
         myFarm.add("Grass");
         myFarm.add("Tractor");
         myFarm.add("Water pump");
-        myFarm.add("Corn plantation");
-        myFarm.add("Clover plantation");
-        myFarm.add("Procesing area");
-
         myFarm.add("Hay bales");
         myFarm.add("Gardening tools");
 

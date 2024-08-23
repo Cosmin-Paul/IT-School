@@ -8,16 +8,12 @@ public class Challenge_16 {
         shoppingList.add("Potato");
         shoppingList.add("Carrot");
         shoppingList.add("Beans");
-        shoppingList.add("Cawliflower");
+        shoppingList.add("Cauliflower");
         shoppingList.add("Cabbage");
         shoppingList.add("Eggplant");
-        shoppingList.add("Cellery");
+        shoppingList.add("Celery");
         shoppingList.add("Garlic");
-        shoppingList.add("Chilli pepper");
-        shoppingList.add("Soia");
-        shoppingList.add("Celantro");
-        shoppingList.add("Squash");
-        shoppingList.add("Sweet potato");
+        shoppingList.add("Cilantro");
         shoppingList.add("Mushroom");
 
         ArrayList<String> clonedList = (ArrayList<String>) shoppingList.clone();

@@ -8,8 +8,6 @@ public class Challenge_4 {
         ArrayList<String> myColours = new ArrayList<>();
         myColours.add("Yellow");
         myColours.add("Magenta");
-        myColours.add("Pink peach");
-        myColours.add("Pink wattermelon");
         myColours.add("Ivory");
         myColours.add("Green Mamba");
 

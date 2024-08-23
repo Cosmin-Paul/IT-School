@@ -7,20 +7,12 @@ public class Challenge_17 {
         ArrayList<String> farmAnimal = new ArrayList<>();
         farmAnimal.add("Sheep");
         farmAnimal.add("Goat");
-        farmAnimal.add("Lamb");
         farmAnimal.add("Cow");
         farmAnimal.add("Horse");
-        farmAnimal.add("Donkey");
         farmAnimal.add("Duck");
         farmAnimal.add("Turkey");
         farmAnimal.add("Goose");
         farmAnimal.add("Pig");
-        farmAnimal.add("Rabbit");
-        farmAnimal.add("Rooster");
-        farmAnimal.add("Rooster");
-        farmAnimal.add("Chicken");
-        farmAnimal.add("Ox");
-        farmAnimal.add("German sheppard");
 
         System.out.println("The original list of my farm animals is: " + farmAnimal);
         farmAnimal.clear();

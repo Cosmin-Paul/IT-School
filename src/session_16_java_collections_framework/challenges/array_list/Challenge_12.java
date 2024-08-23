@@ -12,14 +12,11 @@ public class Challenge_12 {
         vehicleTypes.add("Plane");
         vehicleTypes.add("Skateboard");
         vehicleTypes.add("Bike");
-        vehicleTypes.add("Deltaplane");
-        vehicleTypes.add("Canoe");
-        vehicleTypes.add("Karting car");
 
         System.out.println("The original list is: " + vehicleTypes);
 
         int fromIndex = 2;
-        int toIndex = 6;
+        int toIndex = 4;
         List<String> subList = vehicleTypes.subList(2, 6);
 
         System.out.println("The extracted portion of this list is: " + vehicleTypes);

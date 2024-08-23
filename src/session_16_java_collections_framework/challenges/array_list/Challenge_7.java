@@ -7,14 +7,10 @@ public class Challenge_7 {
         ArrayList<String> fruitList = new ArrayList<>();
         fruitList.add("Mango");
         fruitList.add("Papaya");
-        fruitList.add("Watermelon");
         fruitList.add("Kiwi");
         fruitList.add("Grapes");
         fruitList.add("Ananas");
         fruitList.add("Peach");
-        fruitList.add("Cherry");
-        fruitList.add("Blueberry");
-        fruitList.add("Strawberry");
         fruitList.add("Pear");
 
         String searchElement = "Peach";

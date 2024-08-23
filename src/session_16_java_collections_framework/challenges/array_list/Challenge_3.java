@@ -7,13 +7,11 @@ public class Challenge_3 {
 
         ArrayList<String> myColours = new ArrayList<>();
 
-        myColours.add("Pink wattermelon");
+        myColours.add("Pink watermelon");
         myColours.add("light blue");
         myColours.add("Red");
         myColours.add("Green");
         myColours.add("Brown");
-        myColours.add("Ivory");
-        myColours.add("Fuchsia");
 
         System.out.println("My list of colours is: " + myColours);
 

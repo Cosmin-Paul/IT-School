@@ -9,7 +9,6 @@ public class Challenge_5 {
         carList.add("Dacia");
         carList.add("Ford");
         carList.add("Mazda");
-        carList.add("Bmw");
         carList.add("Kia");
 
         int i = 5;

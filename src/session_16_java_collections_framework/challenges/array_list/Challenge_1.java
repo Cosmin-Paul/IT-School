@@ -9,13 +9,6 @@ public class Challenge_1 {
         myColours.add("Yellow");
         myColours.add("Magenta");
         myColours.add("Orange");
-        myColours.add("Purple");
-        myColours.add("Corail");
-        myColours.add("Pink peach");
-        myColours.add("Pink wattermelon");
-        myColours.add("light blue");
-        myColours.add("Red");
-        myColours.add("Green");
         myColours.add("Brown");
         myColours.add("Ivory");
 
