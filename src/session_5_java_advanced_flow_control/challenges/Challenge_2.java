@@ -9,7 +9,6 @@ public class Challenge_2 {
         System.out.println("PLease enter a number between 1 and 12: ");
 
         int monthNumber = scanner.nextInt();
-        int month;
         scanner.close();
 
         switch (monthNumber) {
@@ -41,7 +40,7 @@ public class Challenge_2 {
                 System.out.println("September");
                 break;
             case 10:
-                System.out.println("Octomber");
+                System.out.println("October");
                 break;
             case 11:
                 System.out.println("November");

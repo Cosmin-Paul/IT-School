@@ -2,19 +2,25 @@ package session_6_core_apis.challenges;
 
 public class Challenge_5 {
     public static void main(String[] args) {
-        String input =  " car,train, metro,bus,airplane,yacht,canoe,sailboat,dirijable,deltaplane";
-        String[] inputArray = input.split(",");
+        String input = " car,train, metro,bus";
 
         StringBuilder sb = new StringBuilder();
-        for (String value : inputArray ) {
-            sb.append(Character.toUpperCase(value.charAt(0)))
-            .append(value.substring(1))
-                    .append("\n");
+        boolean firstWord = true;
+        for (int i = 0; i < input.length(); i++) {
+            char myChar = input.charAt(i);
 
-            System.out.print(sb);
+            if (Character.isWhitespace(myChar)) {
+                sb.append(myChar);
 
-
+                firstWord = true;
+            } else if (firstWord) {
+                sb.append(Character.toUpperCase(myChar));
+                firstWord = false;
+            }
+            else {
+                sb.append(Character.toLowerCase(myChar));
+            }
         }
-
+        System.out.println("Words Capitalized: " + sb);
     }
 }

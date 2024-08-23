@@ -24,7 +24,7 @@ public class Challenge_10 {
                     String yourName = scanner.nextLine();
                     break;
                 case 3:
-                    System.out.println("See you verry soon!");
+                    System.out.println("See you very soon!");
                     return;
                 default:
                     System.out.println("Invalid choice. Please enter a number ");
