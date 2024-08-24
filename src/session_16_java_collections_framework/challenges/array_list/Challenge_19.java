@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class Challenge_19 {
     public static void main(String[] args) {
-        ArrayList<String> gardeningTools = new ArrayList<>();
+        ArrayList<String> gardeningTools = new ArrayList<>(7);
         gardeningTools.add("Shovel");
         gardeningTools.add("Grass scissor");
         gardeningTools.add("watering system");

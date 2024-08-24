@@ -17,6 +17,6 @@ public class Challenge_18 {
         System.out.println("Original fast food list is: " + fastFood);
 
         LinkedList<String> clonedList = (LinkedList<String>) fastFood.clone();
-        System.out.println("The cloned list is: " + fastFood);
+        System.out.println("The cloned list is: " + clonedList);
     }
 }

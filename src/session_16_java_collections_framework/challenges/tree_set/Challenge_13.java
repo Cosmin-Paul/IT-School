@@ -1,5 +1,6 @@
 package session_16_java_collections_framework.challenges.tree_set;
 
+import java.util.Collections;
 import java.util.TreeSet;
 
 public class Challenge_13 {
@@ -16,7 +17,9 @@ public class Challenge_13 {
         myInt.add(9);
         myInt.add(10);
 
-        TreeSet<Integer> lessItem = new TreeSet<>();
-        System.out.println("The element who is strictly less or equal than 7 is: " + myInt.lower(7));
+        myInt.remove(1);
+        myInt.remove(10);
+
+        System.out.println(myInt);
     }
 }

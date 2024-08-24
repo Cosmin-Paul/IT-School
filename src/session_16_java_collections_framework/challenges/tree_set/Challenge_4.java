@@ -1,5 +1,6 @@
 package session_16_java_collections_framework.challenges.tree_set;
 
+import java.util.Collections;
 import java.util.NavigableSet;
 import java.util.TreeSet;
 
@@ -14,7 +15,10 @@ public class Challenge_4 {
         myInt.add(72);
         myInt.add(96);
 
-        NavigableSet<Integer> reverseOrder = myInt.descendingSet();
-        System.out.println("The reverse order is: " + reverseOrder);
+        System.out.println("The original list is: ");
+
+        Collections.reverseOrder();
+
+        System.out.println("The reverse order is: " + myInt);
     }
 }

@@ -7,7 +7,7 @@ public class Challenge_2 {
         LinkedList<String> soupIngredients = new LinkedList<>();
 
         soupIngredients.add("Carrot");
-        soupIngredients.add("Parseley");
+        soupIngredients.add("Parsley");
         soupIngredients.add("Celery");
         soupIngredients.add("Onion");
         soupIngredients.add("Salt");

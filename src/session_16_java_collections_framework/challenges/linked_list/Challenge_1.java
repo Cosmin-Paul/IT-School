@@ -10,11 +10,6 @@ public class Challenge_1 {
         toyStore.add("Truck");
         toyStore.add("Barbie");
         toyStore.add("Dinosaur");
-        toyStore.add("Ballerina");
-        toyStore.add("Basket Ball");
-        toyStore.add("Old train");
-        toyStore.add("Carnival mask");
-        toyStore.add("Unicorn");
         toyStore.add("Doll house");
         toyStore.add("Skates");
         toyStore.add("Bike");

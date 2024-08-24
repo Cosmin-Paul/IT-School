@@ -15,7 +15,7 @@ public class Challenge_19 {
 
         System.out.println("The original list is: " + intList);
 
-        intList.remove(0);
-        System.out.println("The list after removing  first item is: " + intList.get(0));
+        intList.remove(1);
+        System.out.println("The list after removing  first item is: " + intList.get(1));
     }
 }

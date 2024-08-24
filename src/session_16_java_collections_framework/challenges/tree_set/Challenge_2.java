@@ -13,7 +13,7 @@ public class Challenge_2 {
         zooAnimal.add("Emu");
         zooAnimal.add("Bison");
 
-        for (int i = 0; i < 0; i++) ;
+        for (int i = 0; i < 1; i++) ;
         System.out.println(zooAnimal);
     }
 }

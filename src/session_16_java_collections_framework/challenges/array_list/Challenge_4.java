@@ -11,9 +11,9 @@ public class Challenge_4 {
         myColours.add("Ivory");
         myColours.add("Green Mamba");
 
-        int i = 4;
+        int i = 2;
 
-        String element = myColours.get(4);
+        String element = myColours.get(i);
         System.out.println("Element at index " + i + ": " + element);
     }
 }

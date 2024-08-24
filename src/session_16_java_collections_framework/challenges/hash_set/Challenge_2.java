@@ -11,7 +11,8 @@ public class Challenge_2 {
         allVowels.add('O');
         allVowels.add('U');
 
-        for (char z = 0; z < 1; z++) {
+        for (int i = 0; i<1; i++) {
+
             System.out.println(allVowels);
         }
     }

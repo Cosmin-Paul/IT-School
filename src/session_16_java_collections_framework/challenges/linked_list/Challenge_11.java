@@ -14,6 +14,10 @@ public class Challenge_11 {
         roadTripp.add("Santa Cruz");
         roadTripp.add("Veracruz");
 
-        System.out.println("The position of" + roadTripp.get(4) + " is at position " + roadTripp.indexOf("Acapulco"));
+        System.out.println("The position of elements are: ");
+
+        for (int i = 0; i < roadTripp.size(); i++) {
+            System.out.println("Position " + i + ": " + roadTripp.get(i));
+        }
     }
 }

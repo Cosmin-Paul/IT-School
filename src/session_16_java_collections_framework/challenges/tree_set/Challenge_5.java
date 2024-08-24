@@ -19,6 +19,6 @@ public class Challenge_5 {
         Integer lastElement = myInt.last();
 
         System.out.println("The first element is: " + firstElement);
-        System.out.println("The first element is: " + lastElement);
+        System.out.println("The last element is: " + lastElement);
     }
 }

@@ -17,6 +17,6 @@ public class Challenge_11 {
         myInt.add(10);
 
         TreeSet<Integer> lessNumber = new TreeSet<>(myInt.descendingSet());
-        System.out.println("Elements who are less or equal to 10 are:" + lessNumber.tailSet(10));
+        System.out.println("Elements who are less or equal to 7 are:" + lessNumber.tailSet(7));
     }
 }
